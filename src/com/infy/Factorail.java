@@ -11,6 +11,8 @@ public class Factorail {
 		{			
 			fact=fact*i;
 		}
+		
+		
 	}
 	
 	public static void main(String[] args) {
