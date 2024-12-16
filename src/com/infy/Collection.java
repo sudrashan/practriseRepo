@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 import javax.swing.text.StyledEditorKit.ForegroundAction;
-
+//inp
 public class Collection {
 	  public static  boolean isprime(int n)
 	  {
